@@ -14,6 +14,9 @@
   <a href="https://github.com/deeptanshukumar">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://x.com/deeptanshu_13">
+    <img src="https://img.shields.io/twitter/follow/:user" alt="X" />
+  </a>
 </p>
 
 ➡ Check out more projects on [GitHub](https://github.com/deeptanshukumar?tab=repositories)
