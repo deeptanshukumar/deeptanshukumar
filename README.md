@@ -2,31 +2,30 @@
 
 ## 🚀 About Me
 - 🎓 First-year Computer Science student at PES University
-- 💡 Passionate about software development, AI, and backend engineering
-- 💻 Currently working on integrating OpenAI and Spotify API into a Flask web app
-- 🌱 Learning React and C 
-- 📫 Reach me at *sairishigangarapu@gmail.com*
+- 💡 Aspiring AI/ML Engineer | Exploring AI, ML & building cool projects with data
+- 🌱 Currently learning Deep Learning & AI
+- 📫 Reach me at *deeptanshu.kumar13@gmail.com*
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-rishi-gangarapu-770a08321/">
+  <a href="https://www.linkedin.com/in/deeptanshu-kumar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/sairishigangarapu">
+  <a href="https://github.com/deeptanshukumar">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-➡ Check out more projects on [GitHub](https://github.com/sairishigangarapu?tab=repositories)
+➡ Check out more projects on [GitHub](https://github.com/deeptanshukumar?tab=repositories)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeptanshukumar&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sairishigangarapu&theme=onedark&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deeptanshukumar&theme=onedark&no-frame=true&margin-w=15)
 
 ## 📈 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeptanshukumar&theme=tokyonight)
 
 ## 💻 Languages and Tools
 
