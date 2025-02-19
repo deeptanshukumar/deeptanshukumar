@@ -29,9 +29,16 @@
 
 ## 💻 Languages and Tools
 
+### AIML
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+</p>
+
 ### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
@@ -39,11 +46,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="c++"/>
+  
 </p>
 
 ### Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Django%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </p>
 
 ### Others
