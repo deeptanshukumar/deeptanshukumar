@@ -43,7 +43,7 @@
 
 ### Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Django" />
 </p>
 
 ### Others
