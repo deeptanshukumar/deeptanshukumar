@@ -1,8 +1,11 @@
 # Hi there, I'm Deeptanshu Kumar 👋
 
 ## 🚀 About Me
-- 🎓 First-year Computer Science student at PES University
+- 👨‍💻 BTech in Computer Science (AI & ML) @ PES University
 - 💡 Aspiring AI/ML Engineer | Exploring AI, ML & building cool projects with data
+- 🌐 ML Dev @ Nexus PESU
+- 🤖 AI & ML Enthusiast | LLMs | RAGs | NLP | Vision
+- 🏆 CS50 Certified | Andrew NG Coursera 
 - 🌱 Currently learning Deep Learning & AI
 - 📫 Reach me at *deeptanshu.kumar13@gmail.com*
 
