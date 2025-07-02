@@ -36,8 +36,11 @@
 ## 💻 Languages and Tools
 
 
-  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas" />  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-
+### AIML
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+</p>
 
 ### Frontend
 <p align="center">
