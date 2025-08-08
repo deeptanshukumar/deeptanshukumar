@@ -22,6 +22,12 @@
   </a>
   </p>
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/silicon329)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeptanshu.kumar13@gmail.com)
+  <a href="https://discord.gg/silicon329">
+    <img src="(https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord" />
+  </a>
+  <a href="mailto:deeptanshu.kumar13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" />
+  </a>
   
 
 ➡ Check out more projects on [GitHub](https://github.com/deeptanshukumar?tab=repositories)
