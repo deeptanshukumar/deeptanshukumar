@@ -9,8 +9,4 @@ I work mostly in `python`, `cpp`, `linux`, `langchain`, and `docker`, and pick u
 If you want to talk about model internals, RAG, or anything LLM-research shaped, feel free to reach out.
 Have recently also gotten into self hosting :)
 
-<br>
-
 ![Metrics](https://github.com/deeptanshukumar/deeptanshukumar/raw/main/github-metrics.svg)
-
-<br>
